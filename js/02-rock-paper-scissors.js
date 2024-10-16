@@ -63,5 +63,5 @@ function playGame() {
     alert(result);
 }
 
-// Call the game function to play
+
 playGame();
